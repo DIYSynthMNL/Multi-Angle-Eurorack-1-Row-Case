@@ -1,11 +1,5 @@
 # Building a Eurorack case
 This readme is just a rough documentation of my case build process. Hopefully you'll learn something from it!
-![Untitled](images/Built%201.png)
-![Untitled](images/Built%202.png)
-![Untitled](images/Built%203.png)
-![Untitled](images/Built%204.png)
-![Untitled](images/Built%205.png)
-![Untitled](images/Built%206.png)
 
 ## Dimensions
 
