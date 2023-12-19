@@ -1,19 +1,26 @@
 # Building a Eurorack case
+This readme is just a rough documentation of my case build process. Hopefully you'll learn something from it!
+![Untitled](images/Built%1.png)
+![Untitled](images/Built%2.png)
+![Untitled](images/Built%3.png)
+![Untitled](images/Built%4.png)
+![Untitled](images/Built%5.png)
+![Untitled](images/Built%6.png)
 
-# Dimensions
+## Dimensions
 
 ### Rails
 
-The rails I got are not specifically made for Eurorack but I tested it with some blank panels and it works.
+The rails I got are not specifically made for Eurorack but I tested it with some blank panels and it works. I used a 1030 linear rail aluminum profile. I still don't have access to euro rails.
 
-I used M3 square nuts and 6mm long screws. 6mm screws are a bit short so I should get 8mm long ones.
+I used 2mm thick M3 square nuts and 6mm long screws. 6mm screws are a bit short so I got 8mm long ones.
 
 ### Length
 
+I used this guide to help me decide what length I'll be using.
 [https://synthracks.com/blog/eurorack-rails-diy-guide](https://synthracks.com/blog/eurorack-rails-diy-guide) 
 
 The standard rail lengths are as follows:
-
 - 60HP - 304.8mm
 - 84HP - 426.72mm
 - 104HP - 528.32mm
