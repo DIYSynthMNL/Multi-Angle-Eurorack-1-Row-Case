@@ -57,11 +57,7 @@ Initial drafts:
 
 ![Untitled](images/Untitled%206.png)
 
-Final Design:
-
-![Untitled](images/Untitled%207.png)
-
-![Untitled](images/Untitled%208.png)
+The design that I built is in the final design folder. A 1:1 scale pdf is provided so that you can cut your own side panels!
 
 I would recommend using half inch or 10 - 15 mm thick plywood I used scrap wood. Make sure to screw in your rails first with some blank panels or modules in order to keep error low.
 
