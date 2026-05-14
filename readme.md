@@ -1,4 +1,6 @@
 # Building a Eurorack case
+
+![Multi-Angle case](photos/front.jpg)
 This readme is just a rough documentation of my case build process. Hopefully you'll learn something from it!
 
 ## Dimensions
