@@ -1,0 +1,9 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# KiCad backups
+*-backups
+*.bak
+*.kicad_prl
+_autosave-*
