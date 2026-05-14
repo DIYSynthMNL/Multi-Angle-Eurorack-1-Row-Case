@@ -7,3 +7,10 @@ Thumbs.db
 *.bak
 *.kicad_prl
 _autosave-*
+
+# Camera raws (keep local, don't track)
+*.ARW
+*.arw
+*.NEF
+*.CR2
+*.DNG
